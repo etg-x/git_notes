@@ -1,0 +1,10 @@
+git clone <git repo name>
+git remote -v
+git fetch origin
+git merge origin/master
+git pull origin
+
+git remote add upstream <git remote repo name>
+git remote remove <upstream>
+
+valio wang wang
