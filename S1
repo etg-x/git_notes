@@ -1,2 +1,5 @@
 git clone <git repo name>
 git remote -v
+git fetch origin
+git merge origin/master
+git pull origin
